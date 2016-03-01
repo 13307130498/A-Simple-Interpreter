@@ -1,10 +1,3 @@
-/*************************************
-* Lab 2 Exercise 3
-* Name:
-* Matric No:
-* Lab Group:
-*************************************/
-
 //Note that the spcific header files may be different across Linux,
 //Solaris or BSD (Mac OS). do a "man XXXX" to check what are the correct
 //header files on your system. The given header files are for Linux.
